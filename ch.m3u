@@ -5,6 +5,8 @@ https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
 https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
 #EXTINF:0 tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",MESat | Youtube 
 https://www.youtube.com/embed/live_stream?channel=UCg5uHOxrP5GkMWldOavPKGQ
+#EXTINF:0 tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",MESat | Youtube 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600233131/ei/S0phX7SIIY_MwQGz5ZawBA/ip/207.35.151.106/id/XNiXqfnE_d8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPpxgcqN-SnKdqXS9eAgNRx7N0NT0QlKuIaUbzCiFuj0AiEAtHj7rWc_Llg5jV_FzzTD8C416qkCD7TzHiq1Li041mA%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="LogosTV" tvg-name="LogosTV" tvg-language="Arabic" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV
 https://5d12bc59c4748.streamlock.net/redirect/logoschannel.com/logostv.smil?type=m3u8
 #EXTINF:-1 tvg-id="KOOGI" tvg-name="Koogi" tvg-language="Arabic" tvg-logo="https://www.koogi.tv/html/wp-content/uploads/2017/11/favicon.png" group-title="Coptic",Koogi TV
@@ -32,9 +34,35 @@ https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaus.smil?type=
 #EXTINF:-1 tvg-id="ElKarma NA1" tvg-name="ElKarma Praise" tvg-language="Arabic" license=PLAY1-6uHRB-3jWNz-x4crb-hC8cv-xhDZ6" tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Alkarma Praise
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmapa.smil?type=m3u8
 
+#EXTINF:0 tvg-id="avi" group-title="قنوات المسيحية",▁▂▃▅▆▇★☀二【« قنوات المسيحية »】二☀★▇▆▅▃▂▁
+https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",Syriac
+https://streaming.viewsat.eu/viewsatstream12/viewsatstream12.smil/chunklist_w363810933_b900000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",قناة ملكوت سات
+http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/chunklist.
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",قناة الحياة
+http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/chunklist_w1544621477_b1191936.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",Alkarma TV قناة الكرمة
+http://flash.alkarmatv.com:1935/karmatv_na/smil:karmatv_na.smil/chunklist_w1667804327_b650000_slen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",Charity Tv Lebanon تلفزيون المحبة
+http://185.105.4.236:1935/live/ngrp:livestream_all/chunklist_w1852271203_b1596000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",Aghapy TV live قناة أغابي
+http://68.235.60.118:1935/aghapy.tv/aghapy.smil/chunklist_w1321939483_b1400000_slar_t64SEQ=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",Sat7 Egypt
+http://unirtmp.tulix.tv:1935/sat7arabic/satarabiclive-web.smil/chunklist_w1788004706_b400000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",Koogi TV Egypt
+http://66.165.251.10:1935/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",قناة الفادى
+http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w333169971.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",فضائية الطريق
+http://videos.atvsat.com:1935/atvsatlive/smil:atvsatlive.smil/chunklist_w1375520049_b1600000_slen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات المسيحية",ABN Sat Arabic قناة الأرامية
+http://rtmp1.abnsat.com/hls/arabic.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ITALY",Telenova 24h (Y)
 plugin://plugin.video.youtube/play/?video_id=UCg5uHOxrP5GkMWldOavPKGQ
+
+
 
 #EXTINF:-1,Ar- MESat HD
 http://m-iptv.net:6204/Noori31/noori31/14283
