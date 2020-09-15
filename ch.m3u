@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CTV Coptic" tvg-name="CTV Coptic" tvg-language="Arabic" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" group-title="Coptic",CTV
-https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
+#EXTINF:-1 tvg-id="CTV Coptic" tvg-name="CTV Coptic" tvg-language="Arabic" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" type="application/x-mpegURL" id="smcplayer" group-title="Coptic",CTV
+https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u88
 #EXTINF:-1 tvg-id="Aghapty TV" tvg-name="Aghapty TV" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="Coptic",Aghapy TV
 https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
 #EXTINF:0 tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",MESat | Youtube 
@@ -15,6 +15,8 @@ https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="CYC" tvg-name="CYC" tvg-language="Arabic" tvg-logo="https://cycnow.com/wp-content/uploads/2018/11/logosm.png" group-title="Coptic",CYC
 https://5d12bc59c4748.streamlock.net/redirect/cycnow.com/cyc.smil?type=m3u8
+#EXTINF:-1 tvg-id="Al Hoerya" tvg-name="Al Hoerya" tvg-language="Arabic" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" group-title="Coptic",Al Hoerya
+https://5d12bc59c4748.streamlock.net/redirect/alhorreya.tv/alhorreya.smil?type=m3u8
 #EXTINF:-1 tvg-id="ElKarma NA1" tvg-name="ElKarma ME1" tvg-language="Arabic" license=PLAY1-6uHRB-3jWNz-x4crb-hC8cv-xhDZ6" tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Alkarma ME1
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmame1.smil?type=m3u8
 #EXTINF:-1 tvg-id="ElKarma NA1" tvg-name="ElKarma ME2" tvg-language="Arabic" license=PLAY1-6uHRB-3jWNz-x4crb-hC8cv-xhDZ6" tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Alkarma ME2
@@ -29,8 +31,7 @@ https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaau.smil?type=
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaus.smil?type=m3u8
 #EXTINF:-1 tvg-id="ElKarma NA1" tvg-name="ElKarma Praise" tvg-language="Arabic" license=PLAY1-6uHRB-3jWNz-x4crb-hC8cv-xhDZ6" tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Alkarma Praise
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmapa.smil?type=m3u8
-#EXTINF:0, tvg-logo="http://allvectorlogo.com/img/2016/07/trinity-broadcasting-network-tbn-logo.png" group-title="Teaching",TBN
-https://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="ITALY",Telenova 24h (Y)
 plugin://plugin.video.youtube/play/?video_id=UCg5uHOxrP5GkMWldOavPKGQ
