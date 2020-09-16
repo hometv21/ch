@@ -55,3 +55,6 @@ https://www.youtube.com/embed/live_stream?channel=UCYMARLfT6MhEZVLAo0WYnow
 
 #EXTINF:0 STMARK3 | Youtube
 https://www.youtube.com/embed/GCQfSfwf8CU
+
+#EXTINF:0 Youtube video
+plugin://plugin.video.youtube/play/?video_id=x_rNZurzEig
