@@ -20,9 +20,8 @@ http://68.235.35.227:1935/alhorreya.tv/alhorreya.smil/master.m3u8
 #EXTINF:0 tvg-id="El-Fady" tvg-name="El-Fady" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ewvKRRL.png" group-title="Coptic",El-Fady
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w333169971.m3u8
 
-#EXTINF:0 CTV2
+#EXTINF:0 tvg-id="CTV2" tvg-name="CTV2" tvg-language="Arabic" group-title="Coptic",CTV2
 https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
-https://yt3.ggpht.com/a/AATXAJxE9ItpJ-L8EMYkSSSK9Cuwg8oRNOVD-wH4gOtclQ=s100-c-k-c0xffffffff-no-rj-mo
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJxE9ItpJ-L8EMYkSSSK9Cuwg8oRNOVD-wH4gOtclQ=s100-c-k-c0xffffffff-no-rj-mo" group-title="Coptic",Karma ME1
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmame1.smil?type=m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJxE9ItpJ-L8EMYkSSSK9Cuwg8oRNOVD-wH4gOtclQ=s100-c-k-c0xffffffff-no-rj-mo" group-title="Coptic",Karma ME2
