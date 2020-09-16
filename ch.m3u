@@ -21,17 +21,17 @@ http://68.235.35.227:1935/alhorreya.tv/alhorreya.smil/master.m3u8
 #EXTINF:0 tvg-id="El-Fady" tvg-name="El-Fady" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ewvKRRL.png" group-title="Coptic",El-Fady
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w333169971.m3u8
 
-#EXTINF:0 group-title="Coptic",Karma ME1
+#EXTINF:0 tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Karma ME1
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmame1.smil?type=m3u8
-#EXTINF:0 group-title="Coptic",Karma ME2
+#EXTINF:0 tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Karma ME2
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmame2.smil?type=m3u8
-#EXTINF:0 group-title="Coptic",Karma NA1
+#EXTINF:0 tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Karma NA1
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmana1.smil?type=m3u8
-#EXTINF:0 group-title="Coptic",Karma NA2
+#EXTINF:0 tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Karma NA2
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmana2.smil?type=m3u8
-#EXTINF:0 group-title="Coptic",Karma AU
+#EXTINF:0 tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Karma AU
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaau.smil?type=m3u8
-#EXTINF:0 group-title="Coptic",Karma US
+#EXTINF:0 tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Karma US
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaus.smil?type=m3u8
-#EXTINF:0 group-title="Coptic",Karma Praise
+#EXTINF:0 tvg-logo="http://www.alkarmatv.com/templates/karma/images/alkarmatv-logo.png" group-title="Coptic",Karma Praise
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmapa.smil?type=m3u8
