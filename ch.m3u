@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CTV Coptic" tvg-name="CTV Coptic" tvg-language="Arabic" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" type="application/x-mpegURL" id="smcplayer" group-title="Coptic",CTV
+#EXTINF:-1 tvg-id="CTV Coptic" tvg-name="CTV Coptic" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" type="application/x-mpegURL" id="smcplayer" group-title="Coptic",CTV
 http://media4.smc-host.com:1935/ctvchannel.tv/smil:ctv.smil/chunklist_w712232794_b1728000_slar_t64SEQ=.m3u8
 #EXTINF:-1 tvg-id="Aghapty TV" tvg-name="Aghapty TV" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="Coptic",Aghapy TV
 https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
@@ -36,3 +36,6 @@ https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaau.smil?type=
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaus.smil?type=m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJxE9ItpJ-L8EMYkSSSK9Cuwg8oRNOVD-wH4gOtclQ=s100-c-k-c0xffffffff-no-rj-mo" group-title="Coptic",Karma Praise
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmapa.smil?type=m3u8
+
+#EXTINF:0 MESAT2
+https://www.youtube.com/embed/P-fFCLVMXMw
