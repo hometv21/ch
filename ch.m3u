@@ -39,3 +39,12 @@ https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmapa.smil?type=
 
 #EXTINF: MESAT2
 https://www.youtube.com/watch?v=lT9-klKG4Fw
+
+@echo on
+rem MESAT3
+youtube-dl "https://www.youtube.com/watch?v=lT9-klKG4Fw" best -o mesat3.mp4
+pause
+rem MESAT4
+youtube-dl "https://www.youtube.com/watch?v=s8FJ2NxOsG4" best -o mesat4.mp4
+pause
+:end
