@@ -43,3 +43,6 @@ rtmp://stream.s15.mediaserve.com/coptictvlive/livestream
 
 #EXTINF:-1,AR: Me Sat 2
 http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64976.ts
+
+#EXTINF:-1,AR: Me Sat 3
+http://iptv-volkan.ddns.net:8000/live/1234567/7654321/2872.m3u8
