@@ -56,5 +56,17 @@ http://mitvpro.net:25461/LgKDqldCXMEI93e/qOwIZIegDiLZ5pv/7100
 #EXTINF:-1,[EGYPT]:|AR| ME SAT 6
 http://xtreamv3-dreamsatsport.ddns.net:25461/arabic/3AFfe8Lpvf/2656
 
+#EXTINF:0 Test
+https://www.youtube.com/embed/P-fFCLVMXMw
+
+#EXTINF:0 tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",Test2
+https://www.youtube.com/embed/live_stream?channel=UCg5uHOxrP5GkMWldOavPK
+
+#EXTINF: Test3
+https://www.youtube.com/watch?v=lT9-klKG4Fw
+
+#EXTINF:-1 Test4
+plugin://plugin.video.youtube/play/channel/UCJhdT2ZYRr_xT-YIvJGs64Q/live
+
 
 
