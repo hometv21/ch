@@ -62,11 +62,17 @@ https://www.youtube.com/embed/P-fFCLVMXMw
 #EXTINF:0 tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",Test2
 https://www.youtube.com/embed/live_stream?channel=UCg5uHOxrP5GkMWldOavPK
 
-#EXTINF: Test3
+#EXTINF:0 Test3
 https://www.youtube.com/watch?v=lT9-klKG4Fw
 
 #EXTINF:-1 Test4
 plugin://plugin.video.youtube/play/channel/UCJhdT2ZYRr_xT-YIvJGs64Q/live
 
+#EXTINF:-1 SGSJ
+https://www.youtube.com/channel/UCJhdT2ZYRr_xT-YIvJGs64Q/live
 
+#EXTINF:-1 MESAT Live
+https://www.youtube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live
 
+#EXTINF:-1 StMark Live
+https://www.youtube.com/channel/UCYMARLfT6MhEZVLAo0WYnow/live
