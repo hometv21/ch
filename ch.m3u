@@ -47,6 +47,9 @@ https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmapa.smil?type=
 #EXTINF:-1 tvg-id="MESat.eg" tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png" group-title="Religious",MESat [Not 24/7]
 http://149.100.10.234:8080/play/M34ES34A34T34HD/index.m3u8
 
+#EXTINF:-1,AR: MESAT HD123
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63078
+
 #EXTINF:-1,MESAT HD
 http://149.100.10.234:8080/play/M34ES34A34T34HD/index.m3u8
 
