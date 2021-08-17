@@ -8,8 +8,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600742631/ei/h
 
 #EXTINF:-1 tvg-id="LogosTV" tvg-name="LogosTV" tvg-language="Arabic" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV
 https://5d12bc59c4748.streamlock.net/redirect/logoschannel.com/logostv.smil?type=m3u8
-#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV
+#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV1
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/chunklist_w1338244444_b1592000_slar.m3u8
+#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV2
 https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/chunklist_w2005119866_b1592000_slar.m3u8
+#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV3
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/chunklist_w1963481033.m3u8
+#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV4
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/chunklist_w906096411.m3u8
 #EXTINF:-1 tvg-id="KOOGI" tvg-name="Koogi" tvg-language="Arabic" tvg-logo="https://www.koogi.tv/html/wp-content/uploads/2017/11/favicon.png" group-title="Coptic",Koogi TV
 https://5d12bc59c4748.streamlock.net/redirect/koogi.tv/koogi.smil?type=m3u8
 #EXTINF:-1 tvg-id="Sat7 Arabic" tvg-name="Sat7 Arabic" tvg-language="Arabic" tvg-logo="https://sat7.org/wp-content/uploads/2016/11/cropped-sat-7-favicon-192x192.png" group-title="Coptic",Sat7 Arabic
