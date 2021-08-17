@@ -8,13 +8,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600742631/ei/h
 
 #EXTINF:-1 tvg-id="LogosTV" tvg-name="LogosTV" tvg-language="Arabic" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV
 https://5d12bc59c4748.streamlock.net/redirect/logoschannel.com/logostv.smil?type=m3u8
-#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV1
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/chunklist_w1338244444_b1592000_slar.m3u8
-#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV2
-https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/chunklist_w2005119866_b1592000_slar.m3u8
-#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV3
+#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV Praise
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/chunklist_w1963481033.m3u8
-#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV4
+#EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV EN
 https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/chunklist_w906096411.m3u8
 #EXTINF:-1 tvg-id="KOOGI" tvg-name="Koogi" tvg-language="Arabic" tvg-logo="https://www.koogi.tv/html/wp-content/uploads/2017/11/favicon.png" group-title="Coptic",Koogi TV
 https://5d12bc59c4748.streamlock.net/redirect/koogi.tv/koogi.smil?type=m3u8
@@ -27,7 +23,9 @@ https://5d12bc59c4748.streamlock.net/redirect/cycnow.com/cyc.smil?type=m3u8
 #EXTINF:-1 tvg-id="Al Hoerya" tvg-name="Al Hoerya" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6oboNyh.png" group-title="Coptic",Al Hoerya
 https://597f64b67707a.streamlock.net/alhorreya.tv/alhorreya.smil/chunklist_w1097705580_b143000_slar.m3u8
 #EXTINF:0 tvg-id="El-Fady" tvg-name="El-Fady" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ewvKRRL.png" group-title="Coptic",El-Fady
-http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w333169971.m3u8
+https://597f64b67707a.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w1378265754_b596000_slar_t64U0Q=.m3u8
+#EXTINF:0 tvg-id="El-Maqar" tvg-name="El-Maqar" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ewvKRRL.png" group-title="Coptic",El-Maqar
+http://135.181.79.179/ElmaqarTVHD/tracks-v1a1/mono.m3u8?token=mobileuser
 
 #EXTINF:0 tvg-id="CTV2" tvg-name="CTV2" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" group-title="Coptic",CTV2
 https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
