@@ -50,6 +50,9 @@ https://linkastream.co/headless?url=https://www.youtube.com/channel/UCg5uHOxrP5G
 #EXTINF:-1,Christian: MESAT
 rtmp://stream.s15.mediaserve.com/coptictvlive/livestream
 
+#EXTINF:-1,AR: MESat FHD
+http://dmtn.tv:8080/GVl4fGzfjp/WDP0gFnOO2/34579
+
 #EXTINF:-1,AR: Me Sat 2
 http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64976.ts
 
