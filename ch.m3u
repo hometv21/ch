@@ -17,7 +17,7 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="CYC" tvg-name="CYC" tvg-language="Arabic" tvg-logo="https://cycnow.com/wp-content/uploads/2018/11/logosm.png" group-title="Coptic",CYC
 https://5d12bc59c4748.streamlock.net/redirect/cycnow.com/cyc.smil?type=m3u8
 #EXTINF:-1 tvg-id="Al Hoerya" tvg-name="Al Hoerya" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6oboNyh.png" group-title="Coptic",Al Hoerya
-http://68.235.35.227:1935/alhorreya.tv/alhorreya.smil/master.m3u8
+https://597f64b67707a.streamlock.net/alhorreya.tv/alhorreya.smil/chunklist_w1097705580_b143000_slar.m3u8
 #EXTINF:0 tvg-id="El-Fady" tvg-name="El-Fady" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ewvKRRL.png" group-title="Coptic",El-Fady
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w333169971.m3u8
 
