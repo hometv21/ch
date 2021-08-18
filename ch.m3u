@@ -44,5 +44,7 @@ https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaus.smil?type=
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJxE9ItpJ-L8EMYkSSSK9Cuwg8oRNOVD-wH4gOtclQ=s100-c-k-c0xffffffff-no-rj-mo" group-title="Coptic",Karma Praise
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmapa.smil?type=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geography" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="National Geo",National Georgraphy
+#EXTINF:-1 tvg-id="" tvg-name="National Geography" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="TV",National Georgraphy
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="TV",CBC Sofra
+http://mbc.teledunet.com:8080/live/azrotv/azrotv2021/10194.m3u8
