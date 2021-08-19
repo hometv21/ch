@@ -43,6 +43,12 @@ https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaau.smil?type=
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmaus.smil?type=m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJxE9ItpJ-L8EMYkSSSK9Cuwg8oRNOVD-wH4gOtclQ=s100-c-k-c0xffffffff-no-rj-mo" group-title="Coptic",Karma Praise
 https://5d12bc59c4748.streamlock.net/redirect/alkarmatv.com/alkarmapa.smil?type=m3u8
+#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-noursat-7996.jpg" group-title="Coptic",Nour Sat
+https://svs.itworkscdn.net/nour4satlive/livestream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-noursat-7996.jpg" group-title="Coptic",Nour Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-noursat-7996.jpg" group-title="Coptic",Nour Maryam
+https://svs.itworkscdn.net/nour9satlive/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="National Geography" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="TV",National Georgraphy
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -61,3 +67,9 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_
 https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sama Dubai" tvg-logo="https://www.samadubai.ae/content/dam/samadubai/icons/sama-dubai.jpg" group-title="TV",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlArabeya" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_600x338.jpg" group-title="TV",AlArabeya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlHadaz" tvg-logo="https://vid.alarabiya.net/images/2014/02/08/0bd3c28c-2064-4bc0-a1fe-f6f4efc3e75a/0bd3c28c-2064-4bc0-a1fe-f6f4efc3e75a_16x9_600x338.jpg" group-title="TV",AlHadaz
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlArabeya FM" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_600x338.jpg" group-title="TV",AlArabeya FM
+https://fm.alarabiya.net/fm/myStream/chunklist_w2129085022.m3u8
