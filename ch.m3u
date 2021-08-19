@@ -74,7 +74,10 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadat
 #EXTINF:-1 tvg-id="" tvg-name="AlArabeya FM" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_600x338.jpg" group-title="TV",AlArabeya FM
 https://fm.alarabiya.net/fm/myStream/chunklist_w2129085022.m3u8
 
-#EXTINF:-1 tvg-id="BeeMovies.ae" tvg-name="Bee Movies" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="",Bee Movies [Offline]
+#EXTINF:-1 tvg-id="BeeMovies.ae" tvg-name="Bee Movies" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="1",Bee Movies [Offline]
 https://linkastream.co/headless?url=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
-#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="CBC Sofra" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",CBC Sofra [Not 24/7]
+#EXTINF:-1 tvg-id="CBCSofra.eg" tvg-name="CBC Sofra" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="1",CBC Sofra [Not 24/7]
 https://linkastream.co/headless?url=https://www.youtube.com/c/CBCSofraStream/live
+
+#EXTINF:-1 tvg-id="ETVTelangana.in" tvg-name="ETV Telangana" tvg-country="IN" tvg-language="" tvg-logo="" group-title="1",ETV Telangana
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6ickpgDIsltU_-8CbZaksQ/live
