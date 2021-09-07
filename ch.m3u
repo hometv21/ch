@@ -3,9 +3,8 @@
 http://media4.smc-host.com:1935/ctvchannel.tv/smil:ctv.smil/chunklist_w712232794_b1728000_slar_t64SEQ=.m3u8
 #EXTINF:-1 tvg-id="Aghapty TV" tvg-name="Aghapty TV" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="Coptic",Aghapy TV
 https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
-#EXTINF:0 tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",MESat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600742631/ei/hhBpX8eFOoqBir4PmeinuAw/ip/207.35.151.106/id/P-fFCLVMXMw.0/source/yt_live_broadcast/requiressl/yes/tx/23932696/txs/23932692%2C23932693%2C23932694%2C23932695%2C23932696%2C23932697%2C23932698%2C23932699%2C23932700%2C23932701%2C23932702/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJquBV9SbXhR5XpLOrDX0-WK0ua8TO_5tRhTdJfAIA5CAiA4nODZMFpKrsb6ovUx9bdfZN4D7dEElVlYAUP5AOYOnA%3D%3D/file/index.m3u8
-
+#EXTINF:-1 tvg-id="MESAT" tvg-name="MESAT" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",MESat
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFEaK3sSFvXQIgE3jTjqxcA/live
 #EXTINF:-1 tvg-id="LogosTV" tvg-name="LogosTV" tvg-language="Arabic" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV
 https://5d12bc59c4748.streamlock.net/redirect/logoschannel.com/logostv.smil?type=m3u8
 #EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV Praise
@@ -26,7 +25,6 @@ https://597f64b67707a.streamlock.net/alhorreya.tv/alhorreya.smil/chunklist_w1097
 https://597f64b67707a.streamlock.net/alfadytv.tv/alfadytv.smil/chunklist_w1378265754_b596000_slar_t64U0Q=.m3u8
 #EXTINF:0 tvg-id="El-Maqar" tvg-name="El-Maqar" tvg-language="Arabic" tvg-logo="https://image.winudf.com/v2/image1/ZWxtYXFhcnR2LmVsbWFxYXJ0dl9pY29uXzE1NTU0NjI3ODhfMDgz/icon.png?w=170&fakeurl=1" group-title="Coptic",El-Maqar
 http://135.181.79.179/ElmaqarTVHD/tracks-v1a1/mono.m3u8?token=mobileuser
-
 #EXTINF:0 tvg-id="CTV2" tvg-name="CTV2" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" group-title="Coptic",CTV2
 https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AATXAJxE9ItpJ-L8EMYkSSSK9Cuwg8oRNOVD-wH4gOtclQ=s100-c-k-c0xffffffff-no-rj-mo" group-title="Coptic",Karma ME1
@@ -52,8 +50,6 @@ https://svs.itworkscdn.net/nour9satlive/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="National Geography" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="TV",National Georgraphy
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="TV",CBC Sofra
-http://mbc.teledunet.com:8080/live/azrotv/azrotv2021/10194.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AbuDhabi TV" tvg-logo="https://www.parsatv.com/index_files/channels/adtv.png" group-title="TV",AD TV
 https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Emirates TV" tvg-logo="https://admedia.ae/images/Brands/2020223115838103WJ.png" group-title="TV",Emirates TV
@@ -68,6 +64,8 @@ https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunkl
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-name="DW Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="TV",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="CBC Sofra" tvg-name="CBC Sofra" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://www.google.ca/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D1309193215806425&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcbcsofra%2Fphotos%2F%3Ftab%3Dalbum%26album_id%3D511982668860821&tbnid=tFIL64yK1QznPM&vet=12ahUKEwizi7mGpO3yAhXEqnIEHegxD7AQMygAegUIARC2AQ..i&docid=Jsa7uFFo_mszfM&w=500&h=500&q=CBC%20Sofra&ved=2ahUKEwizi7mGpO3yAhXEqnIEHegxD7AQMygAegUIARC2AQ" group-title="TV",CBC Sofra
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC--UtxrU7FWNCp0l7AG9EIw/live
 #EXTINF:-1 tvg-id="" tvg-name="AlArabeya" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_600x338.jpg" group-title="TV",AlArabeya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AlHadaz" tvg-logo="https://vid.alarabiya.net/images/2014/02/08/0bd3c28c-2064-4bc0-a1fe-f6f4efc3e75a/0bd3c28c-2064-4bc0-a1fe-f6f4efc3e75a_16x9_600x338.jpg" group-title="TV",AlHadaz
@@ -87,23 +85,20 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="" group-title="TV",RT Arabic (1080p)
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsP3Clx2qtH2mNZ6KolVoZQ/live
 
-#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="" group-title="TV",NASA
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCIR_LPmEQ9QHR0yB2lxgaxQ/live
+#EXTINF:-1 tvg-id="ST MARK EG" tvg-name="ST MARK EGY" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNql430D0V_Z86gQSKVqt9pmshJ9agh6p1xrfoDQ=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",ST MARK EG
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcQ1-5qz6h3gVpuuHXyWXAw/live
+#EXTINF:-1 tvg-id="Fr Daoud" tvg-name="Fr Daoud" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTzopoAEZ0WfjTXKJFToEOjhNZteq7Hqv3nlOJsbg=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",Fr Dawoud
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCq43CuXeeYpHdEq56Lod0JA/live
+#EXTINF:-1 tvg-id="ST MARK MTL" tvg-name="ST MARK MTL" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmcpSOIdEMVt5fRq2ldHXMNepotx1yC4FDnbUHRg=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",ST MARK MTL
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCYMARLfT6MhEZVLAo0WYnow/live
+#EXTINF:-1 tvg-id="ST G ST J" tvg-name="ST G ST J" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRR5UCOre9UNvTk24Ibs618cD6Zs1TacLUxLcc8=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",ST G ST J
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJhdT2ZYRr_xT-YIvJGs64Q/live
+#EXTINF:-1 tvg-id="SPSP" tvg-name="SPSP" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR4O70ztG0UElZqG9SyrECofD3ZAGwzxwUSuGckeg=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",SPSP
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5rrfLzdgEmxVXhQSBMWpwg/live
+#EXTINF:-1 tvg-id="VM" tvg-name="VM" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQef33MNLy1Hd0-K3i5C8XgCO2GSO0T6a21V-J7fw=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",VM
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCCWRt4m3s-b0yWtDeuGTttg/live
+#EXTINF:-1 tvg-id="VM-M" tvg-name="VM-M" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTmcvcTGM-hbT5L46-U1G1geEdMontXlL2vQe3XOw=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",Mississauga
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCbMvmrfTVL1suLjqnd0_v6Q/live
+#EXTINF:-1 tvg-id="Diocese" tvg-name="Diocese" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOqZjPPC2HMlTw8Napw72UJ_IhB3nLd3cZ5fJc=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",Diocese
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCmf5yVIPOyvcsTWuU4EGMhw/live
 
-#EXTINF:-1,tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="MESAT",MESat1
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/63078
-#EXTINF:-1,tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="MESAT",MESat2
-rtmp://stream.s15.mediaserve.com/coptictvlive/livestream
-#EXTINF:-1,tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="MESAT",MESat3
-http://149.100.10.234:8080/play/M34ES34A34T34HD/index.m3u8
-#EXTINF:-1,tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="MESAT",MESat4
-http://znz.life:25461/maxi1/maxi1/108777
-
-
-
-#EXTINF:-1 tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png",Relaxing Music
-plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
-#EXTINF:-1 tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png",MEsat utube
-plugin://plugin.video.youtube/play/?video_id=wMcJ0g5FbUo
-#EXTINF:-1 tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png",MEsat utube2
-plugin://plugin.video.youtube/play/?video_id=wMcJ0g5FbUo
