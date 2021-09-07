@@ -96,3 +96,11 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 #EXTINF:-1 tvg-id="Diocese" tvg-name="Diocese" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOqZjPPC2HMlTw8Napw72UJ_IhB3nLd3cZ5fJc=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",Diocese
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCmf5yVIPOyvcsTWuU4EGMhw/live
 
+#EXTINF:-1 tvg-id="ST MARK EG" tvg-name="ST MARK EGY" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNql430D0V_Z86gQSKVqt9pmshJ9agh6p1xrfoDQ=s88-c-k-c0x00ffffff-no-rj" group-title="TEST",ST MARK EG1
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/channel/UCcQ1-5qz6h3gVpuuHXyWXAw/live
+#EXTINF:-1 tvg-id="ST MARK EG" tvg-name="ST MARK EGY" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNql430D0V_Z86gQSKVqt9pmshJ9agh6p1xrfoDQ=s88-c-k-c0x00ffffff-no-rj" group-title="TEST",ST MARK EG2
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcQ1-5qz6h3gVpuuHXyWXAw/live
+#EXTINF:-1 tvg-id="ST MARK EG" tvg-name="ST MARK EGY" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNql430D0V_Z86gQSKVqt9pmshJ9agh6p1xrfoDQ=s88-c-k-c0x00ffffff-no-rj" group-title="TEST",ST MARK EG3
+http://salvahe.co/iptv-query?url=https://www.youtube.com/channel/UCcQ1-5qz6h3gVpuuHXyWXAw/live
+#EXTINF:-1 tvg-id="ST MARK EG" tvg-name="ST MARK EGY" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNql430D0V_Z86gQSKVqt9pmshJ9agh6p1xrfoDQ=s88-c-k-c0x00ffffff-no-rj" group-title="TEST",ST MARK EG4
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcQ1-5qz6h3gVpuuHXyWXAw/live
