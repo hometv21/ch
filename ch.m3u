@@ -84,11 +84,11 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi̇" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="TV",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="" group-title="Algeria",RT Arabic (1080p)
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="" group-title="TV",RT Arabic (1080p)
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsP3Clx2qtH2mNZ6KolVoZQ/live
 
-#EXTINF:-1 tvg-id="MESAT" tvg-name="MESAT" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="TV",MESAT Youtube
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel//UCIR_LPmEQ9QHR0yB2lxgaxQ/live
+#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="" group-title="TV",NASA
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCIR_LPmEQ9QHR0yB2lxgaxQ/live
 
 #EXTINF:-1,tvg-name="MESat" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="MESAT",MESat1
 http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/63078
