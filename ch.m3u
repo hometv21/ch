@@ -95,4 +95,4 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCmf5yVIPOyvcsTWuU4EGMhw/live
 
 #EXTINF:-1 tvg-id="Diocese" tvg-name="Diocese" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSOqZjPPC2HMlTw8Napw72UJ_IhB3nLd3cZ5fJc=s88-c-k-c0x00ffffff-no-rj" group-title="CHURCH",Ordination
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=2W86bsTYks8
+https://hls.youtb.workers.dev/watch?v=2W86bsTYks8
