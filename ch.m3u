@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CTV Coptic" tvg-name="CTV Coptic" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" type="application/x-mpegURL" id="smcplayer" group-title="Coptic",CTV
-http://media4.smc-host.com:1935/ctvchannel.tv/smil:ctv.smil/chunklist_w712232794_b1728000_slar_t64SEQ=.m3u8
+https://ctv.icopts.app/CTV/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Aghapty TV" tvg-name="Aghapty TV" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="Coptic",Aghapy TV
 https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
 #EXTINF:-1 tvg-id="MESAT" tvg-name="MESAT" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",MESat
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live
+http://media4.smc-host.com:1935/ctvchannel.tv/smil:ctv.smil/chunklist_w712232794_b1728000_slar_t64SEQ=.m3u8
 #EXTINF:-1 tvg-id="LogosTV" tvg-name="LogosTV" tvg-language="Arabic" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV
 https://5d12bc59c4748.streamlock.net/redirect/logoschannel.com/logostv.smil?type=m3u8
 #EXTINF:-1 tvg-id="LogosTVEN" tvg-name="LogosTVEN" tvg-language="English" tvg-logo="https://logoschannel.com/images/fblogo.png" group-title="Coptic",Logos TV Praise
