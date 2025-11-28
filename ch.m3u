@@ -14,9 +14,6 @@ https://ctv.icopts.app/ctv_USA/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CTV Coptic" tvg-name="CTV Coptic" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" type="application/x-mpegURL" id="smcplayer" group-title="Coptic",CTV-USA-2 
 https://ctv.icopts.app/ctv_USA/tracks-v1/index.fmp4.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="Aghapty TV" tvg-name="Aghapty TV" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" group-title="Coptic",Aghapy TV
 https://5d12bc59c4748.streamlock.net/redirect/aghapy.tv/aghapy.smil?type=m3u8
 #EXTINF:-1 tvg-id="MESAT" tvg-name="MESAT" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2017/12/ME-SAT.png" group-title="Coptic",MESat
