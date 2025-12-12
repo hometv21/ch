@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CTV Coptic" tvg-name="CTV Coptic" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" type="application/x-mpegURL" id="smcplayer" group-title="Coptic",CTV
-https://ctv.icopts.app/CTV/tracks-v1/index.fmp4.m3u8
+http://media2.smc-host.com:1935/ctvchannel.tv/ctv.smil/chunklist_w1498473345_b1500000_slar_t64SEQ=.m3u8
 
 #EXTINF:-1 tvg-id="CTV Coptic" tvg-name="CTV Coptic" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" type="application/x-mpegURL" id="smcplayer" group-title="Coptic",CTV123
 https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
